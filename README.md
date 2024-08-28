@@ -26,8 +26,8 @@ The aim of the project is exploring the relationship between the keywords from d
 ## **Getting Started**
 To explore the keyword network and compare the community structures, follow the links below:
 
-- [**View the Keyword Network**](https://francescofreni.github.io/keywords_network/network/)
-- [**View the Community-Based Network**](https://francescofreni.github.io/keywords_network/networkmod/)
+- [**View the Keyword Network**](https://francescofreni.github.io/keywords-network/network/)
+- [**View the Community-Based Network**](https://francescofreni.github.io/keywords-network/networkmod/)
 
 ## **References**
 - Bastian, M., Heymann, S., & Jacomy, M. (2009). Gephi: An Open Source Software for Exploring and Manipulating Networks.
